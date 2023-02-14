@@ -1,3 +1,0 @@
-﻿INSERT INTO [dbo].[Cars] ([CarId], [CarName ], [BrandId], [ColorId], [ModelYear], [DailyPrice], [Description]) VALUES (1, N'         Taksi      ', 1, 2, N'2001                ', CAST(100 AS Decimal(18, 0)), N'Jeep                ')
-INSERT INTO [dbo].[Cars] ([CarId], [CarName ], [BrandId], [ColorId], [ModelYear], [DailyPrice], [Description]) VALUES (2, N'Kamyonet            ', 2, 3, N'2003                ', CAST(80 AS Decimal(18, 0)), N'Ticari              ')
-INSERT INTO [dbo].[Cars] ([CarId], [CarName ], [BrandId], [ColorId], [ModelYear], [DailyPrice], [Description]) VALUES (3, N'Motor               ', 3, 4, N'2018                ', CAST(65 AS Decimal(18, 0)), N'atv                 ')
